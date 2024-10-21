@@ -1,2 +1,2 @@
 # Spotify Html Css Clone
-![Spotify Clone](images/SpotifyClon.png)
+![Spotify Clone](images/SpotifyClone.png)
